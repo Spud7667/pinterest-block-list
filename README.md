@@ -1,0 +1,1 @@
+# pinterest-block-list
